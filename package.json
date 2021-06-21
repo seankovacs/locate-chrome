@@ -1,6 +1,6 @@
 {
   "name": "locate-chrome",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Find Google Chrome on your system",
   "main": "index.js",
   "bin": {
@@ -14,7 +14,6 @@
     "url": "http://davidtheclark.com"
   },
   "dependencies": {
-    "es6-promise": "^2.0.0",
     "queue-async": "^1.0.0",
     "userhome": "^1.0.0"
   },

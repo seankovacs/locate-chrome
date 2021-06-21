@@ -1,6 +1,5 @@
 var fs = require('fs');
 var exec = require('child_process').exec;
-var Promise = require('es6-promise').Promise;
 var userhome = require('userhome');
 var queue = require('queue-async');
 
